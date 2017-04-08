@@ -1,7 +1,7 @@
 {
   "name": "apiece",
   "description": "Stream-like callback function",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "Eran Hammer <eran@hammer.io> (http://hueniverse.com)",
   "repository": "git://github.com/hueniverse/apiece",
   "main": "lib/index.js",
@@ -13,6 +13,7 @@
     "node": ">=6.3.0"
   },
   "dependencies": {
+    "hoek": "4.x.x"
   },
   "devDependencies": {
     "code": "4.x.x",
